@@ -79,7 +79,7 @@ Parameters:
   GithubRepoName:
     Type: String 
     Description: Your GitHub repo name, format: username/reponame
-    Default: SaravananNadanasabesan/aws-codedeploy-github-actions-deployment-main
+    Default: SaravananNadanasabesan/aws-codedeploy-github-actions
 
 Resources:
   VPC:
