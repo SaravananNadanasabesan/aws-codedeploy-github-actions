@@ -78,7 +78,8 @@ Parameters:
     Description: A thumbprint of an Open ID Connector is a SHA1 hash of the public certificate of the host
   GithubRepoName:
     Type: String 
-    Description: GitHub repository name Ex-TestUser/TestCodeDeploy
+    Description: Your GitHub repo name, format: username/reponame
+    Default: SaravananNadanasabesan/aws-codedeploy-github-actions-deployment-main
 
 Resources:
   VPC:
